@@ -8,22 +8,22 @@ Technology Used :<br>
 3) JavaScript<br>
 
 Webpages Collection :<br>
- Home Page <br>
- Product Page <br>
- Blog Page<br>
- Research Page <br>
- Contact Page <br>
- About Us Page <br>
+ A) Home Page <br>
+ B) Product Page <br>
+ C) Blog Page<br>
+ D) Research Page <br>
+ E) Contact Page <br>
+ F) About Us Page <br>
 
 Features Of Website :<br>
-a) A Functional Nav Bar <br>
-b) A Perfect Image Slider <br>
-c) A Functional Coupon Card<br>
-d) A Functional PopUp Feature In Contact Section For Form Validation <br>
-e) A Functional Cart Item Counter <br>
+ a) A Functional Nav Bar <br>
+ b) A Perfect Image Slider <br>
+ c) A Functional Coupon Card<br>
+ d) A Functional PopUp Feature In Contact Section For Form Validation <br>
+ e) A Functional Cart Item Counter <br>
 
 Author<br>
-- Shivam Kumar Thakur<br>
+ -Shivam Kumar Thakur<br>
   Bsc Computing <br>
   Islington College <br>
  

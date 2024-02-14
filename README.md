@@ -1,29 +1,29 @@
-CUBA Website Overview 
-This Website Design Was For My First Semester Web Dev Project 
-Its A Ecommerce Website Which Primarily Sells Printer Online
+CUBA Website Overview <br>
+This Website Design Was For My First Semester Web Dev Project <br>
+Its A Ecommerce Website Which Primarily Sells Printer Online<br>
 
-Technology Used :
-1) Hyper Text Markup Language (HTML)
-2) Cascading Style Sheet (CSS)
-3) JavaScript
+Technology Used :<br>
+1) Hyper Text Markup Language (HTML)<br>
+2) Cascading Style Sheet (CSS)<br>
+3) JavaScript<br>
 
-Webpages Collection :
- Home Page 
- Product Page 
- Blog Page
- Research Page 
- Contact Page 
- About Us Page 
+Webpages Collection :<br>
+ Home Page <br>
+ Product Page <br>
+ Blog Page<br>
+ Research Page <br>
+ Contact Page <br>
+ About Us Page <br>
 
-Features Of Website :
-a) A Functional Nav Bar 
-b) A Perfect Image Slider 
-c) A Functional Coupon Card
-d) A Functional PopUp Feature In Contact Section For Form Validation
-e) A Functional Cart Item Counter
+Features Of Website :<br>
+a) A Functional Nav Bar <br>
+b) A Perfect Image Slider <br>
+c) A Functional Coupon Card<br>
+d) A Functional PopUp Feature In Contact Section For Form Validation <br>
+e) A Functional Cart Item Counter <br>
 
-Author
-- Shivam Kumar Thakur
-  Bsc Computing
-  Islington College 
+Author<br>
+- Shivam Kumar Thakur<br>
+  Bsc Computing <br>
+  Islington College <br>
  

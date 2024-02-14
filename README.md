@@ -1,6 +1,7 @@
 CUBA Website Overview <br>
 This Website Design Was For My First Semester Web Dev Project <br>
 Its A Ecommerce Website Which Primarily Sells Printer Online<br>
+( Not Responsive Till Now )
 
 Technology Used :<br>
 1) Hyper Text Markup Language (HTML)<br>

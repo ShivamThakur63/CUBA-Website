@@ -23,6 +23,9 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+body{
+    min-width:1200px;
+}
 /* These Are For The Navigation Section */
 header {
     position: sticky;
